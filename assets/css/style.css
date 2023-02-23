@@ -426,7 +426,7 @@ h6 {
   color: #fff;
   -webkit-animation-duration: 0.5s;
   animation-duration: 0.5s;
-  border-top: 5px solid #f03c02;
+  border-top: 5px solid #4eb3ff;
 }
 
 #hero .carousel-content h2 {
@@ -933,8 +933,9 @@ section {
   border-bottom: 1px solid #f1eeed;
   overflow: hidden;
   background: #fff;
-  height: 100px;
-  background-color: #f5a085;
+  height: 80px;
+  background-color: #03a84e;
+  border-radius: 8px;
 }
 
 .clients .client-logo img {
@@ -1340,7 +1341,7 @@ section {
 
 .testimonials .testimonial-item {
   box-sizing: content-box;
-  padding: 40px;
+/*  padding: 40px;*/
   box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.08);
   position: relative;
   background: #fff;
